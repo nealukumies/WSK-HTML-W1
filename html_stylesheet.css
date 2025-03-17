@@ -4,7 +4,7 @@ body {
 }
 
 a:link, a:visited {
-    background-color: #00ffff;
+    background-color: #a7e8f2;
     color: black;
     border: 2px solid #003e80;
     padding: 5px 5px;
@@ -14,7 +14,7 @@ a:link, a:visited {
   }
   
   a:hover, a:active {
-    background-color: #520a4a;
+    background-color: #5789ab;
     color: white;
     size: 15px;
   }
@@ -34,4 +34,8 @@ a:link, a:visited {
 
 table tr:nth-child(odd) {
     background-color: #75d4bf; 
+}
+
+ul {
+    list-style: none;
 }
