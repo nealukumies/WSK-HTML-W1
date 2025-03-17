@@ -1,0 +1,25 @@
+body {
+    font: Arial, sans-serif;
+
+}
+
+a:link, a:visited {
+    background-color: #00ffff;
+    color: black;
+    border: 2px solid #003e80;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: #520a4a;
+    color: white;
+    size: 15px;
+  }
+
+  img {
+    border: 2px solid #000000;
+    border-radius: 10px;
+  }
